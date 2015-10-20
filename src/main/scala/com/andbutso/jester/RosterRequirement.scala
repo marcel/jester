@@ -4,7 +4,8 @@ object RosterRequirement {
 
 }
 
-case class RosterRequirement(slots: Seq[PositionSlot])
+case class RosterRequirement(slots: Seq[PositionSlot]) {
+}
 
 object NFL {
   import PositionSlot.{NFL => slot}
@@ -37,6 +38,22 @@ object CFB {
       slot.WR,
       slot.FLEX,
       slot.FLEX
+    )
+  )
+}
+
+object NBA {
+  import PositionSlot.{NBA => slot}
+  val rosterRequirements = RosterRequirement(
+    Seq(
+      slot.PG,
+      slot.SG,
+      slot.SF,
+      slot.PF,
+      slot.C,
+      slot.G,
+      slot.F,
+      slot.UTIL
     )
   )
 }

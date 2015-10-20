@@ -104,16 +104,9 @@ case class AllPlayers(
 		filterDown(
 			possibleQBsRBsWRs,
 			possibleTEsFlex,
-			percentToKeep = 10 // 5
+			percentToKeep = 5 // 5
 		)
 	}
-	// lazy val possibleQBsRBsWRsTEsFlex = {
-	// 	filterDown(
-	// 		possibleQBsRBsWRs,
-	// 		possibleDEFFlex,
-	// 		percentToKeep = 10 // 5
-	// 	)
-	// }
 
 	lazy val possibleDEFs = {
 		filterDown(

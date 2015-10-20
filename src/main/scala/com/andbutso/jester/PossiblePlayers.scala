@@ -147,6 +147,13 @@ case class PossiblePlayers(players: Set[PlayerRef]) extends Valueable {
 		projectedPoints * Math.log10(remainingBudget)
 	}
 
+  def toCSV(rosterRequirement: RosterRequirement) = {
+    players.foldLeft(rosterRequirement) { case (rr, player) =>
+
+      rr
+    }
+  }
+
 	val projectedPoints = MathUtil.truncate(players.toSeq.map { _.projectedPoints }.sum)
 	val value  = MathUtil.truncate(players.toSeq.map { _.value }.sum)
 	val salary = players.toSeq.map { _.salary }.sum
