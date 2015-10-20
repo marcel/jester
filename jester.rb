@@ -241,7 +241,7 @@ class AllPlayers
       end
     end
     
-    @rosters = Rosters.new(Set.new(@rosters))
+    @rosters = com.andbutso.jester.Rosters.new(Set.new(@rosters))
     @rosters
   end
   
@@ -252,7 +252,7 @@ class AllPlayers
   end
 end
 
-class Rosters
+class com.andbutso.jester.Rosters
   attr_reader :rosters, :count_by_position_cache, :rosters_by_player_per_position_cache
   
   def initialize(rosters)
@@ -294,7 +294,7 @@ class Rosters
     rosters_by_player_per_position_cache.keys.each do |position|
       rosters_by_player_per_position_cache[position].keys.each do |name|
         r = rosters_by_player_per_position_cache[position][name]
-        rosters_by_player_per_position_cache[position][name] = Rosters.new(r)
+        rosters_by_player_per_position_cache[position][name] = com.andbutso.jester.Rosters.new(r)
       end
     end
     
@@ -324,13 +324,13 @@ class Rosters
   end
   
   def with_player(player)
-    Rosters.new(rosters.select do |roster|
+    com.andbutso.jester.Rosters.new(rosters.select do |roster|
       roster.players.include?(player)
     end)
   end
   
   def excluding_player(player)
-    Rosters.new(rosters.select do |roster|
+    com.andbutso.jester.Rosters.new(rosters.select do |roster|
       !roster.players.include?(player)
     end)
   end
@@ -458,7 +458,7 @@ class PossiblePlayers
       end
     end
     
-    Rosters.new(foo)
+    com.andbutso.jester.Rosters.new(foo)
   end
   
   def improve_on(name, all_players, options = {}, index = 0)
