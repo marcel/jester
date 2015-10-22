@@ -11,20 +11,123 @@ object AllPlayers {
 	val defaultSort = byValue
 }
 
+case class LineupBuilder(
+  players: AllPlayers,
+  rosterRequirement: RosterRequirement,
+  predicate: AllPlayers.SortPredicate = AllPlayers.defaultSort
+) {
+  import scala.language.implicitConversions
+
+  case class RichPlayerSeq[T](players: Seq[T]) {
+    def takePercent(percent: Int) = {
+      val amount = Math.ceil(players.size * percent/100.0).toInt
+      players.take(amount)
+    }
+  }
+
+  implicit def playerSeqToRichPlayerSeq[T](playerSeq: Seq[T]): RichPlayerSeq[T] = {
+    RichPlayerSeq(playerSeq)
+  }
+
+  val summariesByPositionSlot = rosterRequirement.slots.distinct.map { slot =>
+    slot -> players.positionSummary(slot, rosterRequirement, predicate)
+  }.toMap
+
+  def foo = {
+    val perPosition = mutable.Set[Set[PossiblePlayers]]()
+
+    rosterRequirement.slots.distinct.foreach { slot =>
+      val summary = summariesByPositionSlot(slot)
+      val number = rosterRequirement.slots.count { _ == slot }
+      println(s"$number slots for $slot")
+      val applicable = applicablePlayers(slot).sortBy(predicate)
+      println(s"${applicable.size} players for $slot")
+
+      val targetPercent = summary.targetPercentage.toInt
+      val targetted     = applicable.takePercent(targetPercent)
+      val combos        = targetted.combinations(number).map {
+        PossiblePlayers(rosterRequirement, _)
+      }.toSeq.sortBy(predicate).toSet
+
+      println(s"${combos.size} combos of ${targetted.size} ($targetPercent%)")
+      val remainder = if (number == 1) {
+        combos.take(Math.min(15, combos.size))
+      } else {
+//        val targettedPlayersWithoutRosters = mutable.Set(targetted.map { _.ref }: _*)
+//
+//        combos.takeWhile { pp =>
+//          pp.players.foreach { pl =>
+//            targettedPlayersWithoutRosters -= pl
+//          }
+//          targettedPlayersWithoutRosters.nonEmpty
+//        }
+        val amount = Math.min(15*number, combos.size)
+        combos.take(amount)
+      }
+
+      println(s"Keeping ${remainder.size}")
+      perPosition.add(remainder)
+    }
+
+    val estimatedMaxSize = perPosition.toSeq.map { _.size }.product
+    println(s"Estimated max size: $estimatedMaxSize")
+    val allCombined = mutable.Set(perPosition.head.toSeq: _*)
+
+      val res = perPosition.tail.foldLeft(allCombined) { case (allPps, nextSetOfCombos) =>
+      val cheapest = nextSetOfCombos.minBy { _.players.minBy { _.salary }.salary }.players.minBy { _.salary }.salary
+      allPps.foreach { outer =>
+        if (outer.isWithinBudget && outer.remainingBudget >= cheapest && !outer.isFull) {
+          nextSetOfCombos.foreach { inner =>
+            val possibility = inner + outer
+            if (possibility.isWithinBudget) {
+              allPps.add(possibility)
+            }
+          }
+        }
+      }
+
+      allPps
+    }
+    println(s"raw result count: ${res.size}")
+    val filtered = mutable.ArrayBuffer[PossiblePlayers]()
+    res.foreach { pp =>
+      if (pp.isFull && rosterRequirement.isValid(pp)) {
+        filtered += pp
+      }
+    }
+    Rosters(filtered)
+  }
+
+  def applicablePlayers(positionSlot: PositionSlot) = {
+    players.players.filter { player =>
+      positionSlot.canBeFilledBy(player)
+    }
+  }
+}
+
 case class AllPlayers(
 	players: Seq[Player]
 ) {
 	import scala.language.implicitConversions
-	case class RichPlayerSeq[T](players: Seq[T]) {
-		def takePercent(percent: Int) = {
-			val amount = (players.size * percent/100.0).toInt
-			players.take(amount)
-		}
-	}
 
-	implicit def playerSeqToRichPlayerSeq[T](playerSeq: Seq[T]) = {
+  case class RichPlayerSeq[T](players: Seq[T]) {
+    def takePercent(percent: Int) = {
+      val amount = Math.ceil(players.size * percent/100.0).toInt
+      players.take(amount)
+    }
+  }
+
+	implicit def playerSeqToRichPlayerSeq[T](playerSeq: Seq[T]): RichPlayerSeq[T] = {
 		RichPlayerSeq(playerSeq)
 	}
+
+  def positionSummary(
+    positionSlot: PositionSlot,
+    rosterRequirement: RosterRequirement,
+    predicate: AllPlayers.SortPredicate = AllPlayers.defaultSort
+  ) = {
+    PositionSummary(players, positionSlot, rosterRequirement, predicate)
+  }
 
 	val byPosition = players.groupBy { _.position }
 
@@ -137,7 +240,7 @@ case class AllPlayers(
 		sortPredicate: AllPlayers.SortPredicate = AllPlayers.defaultSort
 	): Seq[PossiblePlayers] = {
 		byPosition(position).sortBy(sortPredicate).takePercent(initialPercent).combinations(groupSize).map { possiblePlayers =>
-			PossiblePlayers(possiblePlayers)
+			PossiblePlayers(NFL.rosterRequirements, possiblePlayers)
 		}.toSeq.sortBy(sortPredicate).takePercent(if (groupSize == 1) 100 else finalPercent.getOrElse(initialPercent))
 	}
 
@@ -148,7 +251,7 @@ case class AllPlayers(
 		positions.flatMap { position =>
 			byPosition.get(position)
 		}.flatten.toSeq.sortBy(AllPlayers.defaultSort).takePercent(percentToKeep).combinations(1).map { possiblePlayers =>
-			PossiblePlayers(possiblePlayers)
+			PossiblePlayers(NFL.rosterRequirements, possiblePlayers)
 		}.toSeq
 	}
 
@@ -205,7 +308,7 @@ case class AllPlayers(
 			} else {
 				false
 			}
-		}.toSeq.sortBy(AllPlayers.byPoints)
+		}.sortBy(AllPlayers.byPoints)
 	}
 
 	def alternativesFor(

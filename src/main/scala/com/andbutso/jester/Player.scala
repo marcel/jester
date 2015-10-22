@@ -5,7 +5,8 @@ case class Player(
 	salary: Int,
 	projectedPoints: Double,
 	position: Position.Value,
-	id: String
+	id: String,
+	injuryStatus: String
 ) extends Valueable {
 	val ref = PlayerRef(id)
 
@@ -13,6 +14,6 @@ case class Player(
 		MathUtil.truncate(projectedPoints / salary * projectedPoints * 100.0)
 	}
 
-	def hasValue = projectedPoints != 0 || value > 0
+	def hasValue = projectedPoints > 0
 	def isFlex = Position.flexPositions.contains(position)
 }

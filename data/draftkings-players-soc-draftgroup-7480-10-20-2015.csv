@@ -1,0 +1,413 @@
+name,salary,points,position,id
+Luis Suárez,11100,18.0,F,348217
+Robert Lewandowski,10900,23.4,F,464694
+Neymar,10800,9.4,F,555042
+Alexis Sánchez,10300,18.1,F,487289
+Eden Hazard,10100,6.9,M,397817
+Lionel Messi,10000,18.5,F,348767
+Hulk,9900,29.5,F,471521
+Thomas Muller,9800,16.8,F,461803
+Diego Costa,9700,9.1,F,377080
+Yacine Brahimi,9000,9.8,F,397897
+Mario Gotze,8900,14.9,M,505351
+Olivier Giroud,8700,9.0,F,440565
+Douglas Costa,8600,14.4,M,491458
+Gervinho,8600,20.0,F,532928
+Franck Ribéry,8500,0.0,M,347692
+Arjen Robben,8400,0.0,M,330393
+Edin Dzeko,8100,4.8,F,400160
+Mesut Ozil,8000,10.6,M,345762
+Vincent Aboubakar,8000,15.3,F,546158
+Cesc Fàbregas,7700,9.2,M,346178
+Pedro,7700,8.6,F,437140
+Hakan Çalhanoglu,7700,19.8,F,649015
+Artem Dzyuba,7600,11.3,F,349180
+Alexandre Lacazette,7500,7.9,F,495900
+Chicharito Hernández,7400,6.6,F,375893
+Karim Bellarabi,7400,12.4,M,552913
+Theo Walcott,7300,11.8,F,346249
+Santi Cazorla,7300,7.5,M,348696
+Danny,7300,5.0,M,474471
+Radamel Falcao,7200,3.8,F,374651
+Nabil Fekir,7200,0.0,M,749509
+Aaron Ramsey,7000,9.2,M,407838
+Francesco Totti,6900,0.0,F,346385
+Arturo Vidal,6900,4.8,M,359610
+Danny Welbeck,6900,0.0,F,447916
+Loïc Remy,6800,3.4,F,347919
+Oscar,6800,9.7,M,466295
+El Arabi Soudani,6800,16.5,F,619171
+Andrés Iniesta,6600,3.0,M,348501
+Maxwel Cornet,6600,0.0,F,741200
+Munir El Haddadi,6400,15.8,F,788468
+Javi García,6300,1.1,M,353635
+Willian,6300,10.5,M,388493
+Álvaro Negredo,6300,5.0,F,403322
+Admir Mehmedi,6300,11.4,F,457113
+Cristian Tello,6300,0.0,F,563023
+Stefan Kiessling,6200,2.7,F,345569
+Daniele De Rossi,6200,0.4,M,346573
+Claudio Beauvue,6000,0.9,F,377151
+Oleg Shatov,6000,11.3,M,649698
+Mathieu Valbuena,5900,11.3,M,347887
+Júnior Moraes,5900,11.5,F,387470
+Danilo Pereira,5900,2.3,M,563011
+Pablo Piatti,5800,7.6,F,376078
+Branislav Ivanovic,5800,4.7,D,415200
+Mikhail Gordeychuk,5800,10.1,F,588381
+Silvestre Varela,5700,0.0,F,398659
+Marc-André Ter Stegen,5700,6.5,GK,520912
+Pablo Daniel Osvaldo,5600,0.0,F,402171
+Vitali Rodionov,5600,7.9,F,419632
+Jordi Alba,5600,4.0,D,446266
+Héctor Herrera,5600,1.5,M,492556
+Juan Iturbe,5600,2.3,F,510958
+Alex Oxlade-Chamberlain,5600,3.4,M,540451
+Kingsley Coman,5600,11.4,F,726108
+Iker Casillas,5500,4.5,GK,348438
+Andriy Yarmolenko,5500,20.8,F,475413
+Giannelli Imbula,5500,5.3,M,540059
+Laurent Depoitre,5500,4.4,F,602150
+Santi Mina,5500,0.0,F,723427
+Brown Ideye,5400,2.0,F,392615
+Sergio Busquets,5400,1.5,M,473187
+Rodrigo,5400,5.4,F,538096
+André,5400,10.6,M,568420
+Axel Witsel,5300,8.6,M,347225
+Dani Alves,5300,4.5,D,348634
+Asmir Begovic,5300,6.6,GK,389277
+Jaume Domènech,5300,8.4,GK,656561
+Mohamed Salah,5300,3.9,F,659962
+Marko Pjaca,5300,4.9,F,738871
+Sandro Ramírez,5300,6.8,F,740311
+Aleksandr Karnitski,5300,1.5,M,840950
+Nikolai Sihnevich,5300,3.2,F,840954
+Manuel Neuer,5200,17.0,GK,345666
+Ivan Rakitic,5200,6.8,M,349448
+Júnior Fernandes,5200,6.1,F,654317
+Eran Zahavi,5100,12.7,M,478465
+Pajtim Kasami,5100,3.1,M,536953
+Corentin Tolisso,5100,6.5,M,723245
+André Ramalho,5100,2.0,M,740464
+Xabi Alonso,5000,7.3,M,346081
+Sofiane Feghouli,5000,15.4,M,440563
+Iago Falque,5000,6.0,F,488387
+Yury Lodygin,5000,3.0,GK,541993
+Bernd Leno,5000,9.3,GK,554725
+Sergi Roberto,5000,9.3,M,559973
+Julian Brandt,5000,2.3,M,806758
+Armin Hodzic,5000,11.9,F,846893
+Steed Malbranque,4900,0.0,M,322652
+Seydou Keita,4900,2.5,M,347471
+Javi Martínez,4900,0.0,M,348840
+Jack Wilshere,4900,0.0,M,466419
+Maicon,4900,10.4,D,506469
+Angelo Henríquez,4900,1.0,F,648737
+Alexander Hleb,4800,2.4,M,345943
+Claudio Bravo,4800,0.0,GK,348611
+Eduardo,4800,7.9,GK,349453
+William Vainqueur,4800,0.0,M,377186
+Lars Bender,4800,2.6,M,408155
+Ramires,4800,4.1,M,440827
+David Alaba,4800,9.3,D,505358
+Rafinha,4800,0.8,M,585228
+Tal Ben Haim,4800,4.3,F,593043
+André Gomes,4800,19.0,M,705675
+Héctor Bellerín,4800,7.1,D,711689
+Miralem Pjanic,4700,4.5,M,401342
+Mikhail Kerzhakov,4700,5.0,GK,415171
+Igor Stasevich,4700,12.4,M,419643
+Felipe Pardo,4700,11.9,M,538649
+Brecht Dejaegere,4700,1.8,M,556813
+Christoph Kramer,4700,0.9,M,564033
+Paco Alcácer,4700,1.8,F,564986
+Petr Cech,4600,12.2,GK,330263
+Philipp Lahm,4600,6.0,D,345573
+Morgan De Sanctis,4600,4.0,GK,346554
+Nacho Monreal,4600,8.3,D,348853
+Maxi Pereira,4600,5.4,D,359247
+Sven Kums,4600,10.8,M,376690
+Kevin Kampl,4600,7.3,M,522660
+Alfred Finnbogason,4600,13.0,F,564477
+Joao Cancelo,4600,16.6,D,649337
+Derlis González,4600,9.4,M,660204
+Ruben Loftus-Cheek,4600,1.8,M,861046
+César Azpilicueta,4500,4.6,D,378639
+Wojciech Szczesny,4500,3.4,GK,390239
+Artem Kravets,4500,1.0,F,421996
+Dani Parejo,4500,8.4,M,463771
+Anthony Lopes,4500,5.4,GK,493708
+Seung-Woo Ryu,4500,0.0,M,717466
+Nacho Gil,4500,0.0,F,885155
+Dejan Radonjic,4500,4.3,F,891532
+Eden Ben Basat,4400,1.0,F,349393
+Chori Domínguez,4400,5.0,M,415167
+Thiago Alcántara,4400,11.4,M,498511
+Maxime Gonalons,4400,2.5,M,515131
+Renato Neto,4400,3.5,M,554661
+Gayà,4400,8.4,D,708197
+Javier Mascherano,4300,1.1,M,346143
+Miguel Veloso,4300,3.5,M,348978
+Jerome Boateng,4300,7.0,D,376673
+Alberto Bueno,4300,0.0,F,388425
+Barak Itzhaki,4300,0.4,F,418012
+Rafael,4300,0.8,D,465468
+Thibaut Courtois,4300,6.3,GK,496415
+Bruno Martins Indi,4300,1.4,D,551147
+Alessandro Florenzi,4300,11.4,M,595981
+Lukasz Teodorczyk,4300,0.0,F,600141
+Jordan Ferri,4300,4.8,M,615385
+Josip Pivaric,4300,11.6,D,698690
+Gerard Piqué,4200,3.4,D,348781
+Oleh Gusev,4200,13.5,M,348895
+Enzo Pérez,4200,2.9,M,372417
+Iván Marcano,4200,2.0,D,411888
+Thomas Matton,4200,7.8,M,466944
+Danilo Silva,4200,10.8,D,512556
+Alan Pulido,4200,0.0,F,540218
+Matz Sels,4200,4.5,GK,554668
+Kalifa Coulibaly,4200,0.0,F,604543
+Mathew Ryan,4200,8.5,GK,634279
+Zakarie Labidi,4200,0.0,F,722160
+Julian Green,4200,0.0,F,787674
+Timothé Cognat,4200,0.0,M,891845
+Esteban Cambiasso,4100,0.0,M,346461
+Javi Fuego,4100,0.9,M,402111
+Roberto,4100,9.5,GK,444249
+Paulo Machado,4100,4.2,M,461522
+Denys Garmash,4100,11.8,M,521801
+Samuel Umtiti,4100,3.9,D,558159
+Sérgio Oliveira,4100,0.0,M,572788
+Juan Bernat,4100,4.3,D,611704
+Illya Aleksievich,4100,0.9,M,661020
+Vitaliy Buyalskiy,4100,7.5,M,699468
+Nemanja Nikolic,4100,9.5,M,712998
+Lucas Tousart,4100,0.0,M,881331
+Rafinha,4000,0.0,D,345646
+John Terry,4000,1.4,D,345925
+Tomas Rosicky,4000,0.0,M,345967
+Mikel Arteta,4000,0.5,M,346160
+Christophe Jallet,4000,11.8,D,347882
+Evandro,4000,0.0,M,374510
+Mehdi Benatia,4000,0.0,D,375441
+Antunes,4000,4.5,D,390578
+Mapou Yanga-Mbiwa,4000,2.0,D,440664
+Sebastian Rode,4000,0.0,M,446253
+Laurent Koscielny,4000,3.4,D,459434
+Aleksandr Riazantsev,4000,0.0,M,482175
+Shkodran Mustafi,4000,2.7,D,499547
+Nemanja Matic,4000,3.3,M,500460
+Nikola Mitrovic,4000,3.8,M,543840
+Aleksandar Jevtic,4000,0.0,F,545318
+Jesús Corona,4000,2.0,F,558417
+Serhiy Rybalka,4000,3.5,M,592140
+Luka Milivojevic,4000,0.0,M,620764
+Patrick Weihrauch,4000,0.0,F,660416
+Thomas Foket,4000,0.8,M,679771
+Christopher Martins Pereira,4000,0.0,M,728573
+Moses Simon,4000,1.0,F,737804
+Rodrigo De Paul,4000,1.0,M,757508
+Danilo,4000,0.0,M,793395
+Ante Coric,4000,2.3,M,794487
+Vladlen Yurchenko,4000,0.0,F,831053
+Tropi,4000,0.0,M,863460
+Fran Villalba,4000,0.0,M,884487
+Killian Pagliuca,4000,0.0,F,891843
+Endri Cekici,4000,0.0,F,892142
+Roberto Hilbert,3900,4.4,D,345770
+Niko Kranjcar,3900,0.0,M,346184
+Gil Vermouth,3900,5.5,M,349431
+Aleksandr Anyukov,3900,2.4,D,372505
+Kyriakos Papadopoulos,3900,6.4,D,409125
+Holger Badstuber,3900,0.0,D,462565
+Clément Grenier,3900,0.0,M,470914
+Lucas Orban,3900,7.8,D,513974
+Marc Bartra,3900,0.0,D,539036
+Domagoj Antolic,3900,2.7,M,541545
+Lucas Digne,3900,8.6,D,558151
+Nosa Igiebor,3900,1.9,M,573611
+Artur Yusupov,3900,0.8,M,591177
+Avi Rikan,3900,3.4,M,728106
+Chico Ramos,3900,0.0,M,787867
+Kenny Saief,3900,3.5,M,844719
+Marko Rog,3900,0.8,M,858171
+Marlon Frey,3900,0.0,M,864022
+Jérémy Mathieu,3800,3.4,D,347524
+Henri Bedimo,3800,0.0,D,370625
+Miguel Layún,3800,6.7,D,375578
+Vasilis Torosidis,3800,7.0,D,409126
+Rafinha,3800,1.0,D,479228
+Radosav Petrovic,3800,0.0,M,481192
+Rachid Ghezzal,3800,0.0,M,558157
+Arijan Ademi,3800,0.8,M,566509
+Kostas Fortounis,3800,7.9,M,567573
+Omar Elabdellaoui,3800,2.0,D,582667
+Dor Micha,3800,1.8,M,614705
+Calum Chambers,3800,2.9,D,692237
+Serhiy Sydorchuk,3800,2.0,M,725470
+Rubén Vezo,3800,1.4,D,734139
+Wendell,3800,4.3,D,739495
+Joao Graça,3800,0.0,M,787866
+Serhiy Miakushko,3800,0.0,M,864454
+John Obi Mikel,3700,1.7,M,330396
+Maicon,3700,0.0,D,346587
+Arnold Mvuemba,3700,0.0,M,347652
+Mathieu Debuchy,3700,5.1,D,347705
+Jérémy Morel,3700,5.4,D,347858
+Thomas Vermaelen,3700,0.0,D,348168
+Oleksandr Shovkovskiy,3700,12.0,GK,348924
+Gal Alberman,3700,1.9,M,417950
+Aleksandar Dragovic,3700,2.5,D,457377
+Omer Toprak,3700,0.0,D,468048
+Francis Coquelin,3700,1.9,M,478140
+Younes Belhanda,3700,0.0,M,508851
+Hannes Van der Bruggen,3700,0.0,M,556331
+Igor Smolnikov,3700,4.9,D,589008
+Joel Campbell,3700,2.6,F,604434
+Tomas Podstawski,3700,0.0,M,615401
+Gonçalo,3700,0.8,M,698291
+Joshua Kimmich,3700,2.1,M,741209
+Mathieu Flamini,3600,0.0,M,346145
+Milan Bisevac,3600,2.0,D,347921
+Ezequiel Garay,3600,2.8,D,348765
+Oleksandr Rybka,3600,-2.0,GK,349008
+Viktor Fayzulin,3600,0.0,M,442366
+Dmitri Baga,3600,0.5,M,473913
+Nicklas Pedersen,3600,0.0,F,479071
+Yevhen Khacheridi,3600,4.3,D,521802
+Domagoj Vida,3600,0.0,D,547151
+Andreas Bouchalakis,3600,0.0,M,619492
+Domagoj Pavicic,3600,0.0,M,699541
+Tin Jedvaj,3600,0.0,D,736458
+Ruben Macedo,3600,0.0,M,845951
+Nemanja Milunovic,3600,5.3,D,884982
+Nicolas Lombaerts,3500,1.4,D,347082
+Manuel Da Costa,3500,2.8,D,348285
+Adriano,3500,0.0,D,348698
+Helton,3500,0.0,GK,349045
+Leonardo Sigali,3500,4.0,D,371764
+Kieran Gibbs,3500,0.8,D,383616
+Radja Nainggolan,3500,3.9,M,473096
+Damir Sovsic,3500,0.0,M,612568
+Dzmitry Mozolevski,3500,0.0,F,612646
+Benito Raman,3500,0.9,F,616917
+Antonio Rudiger,3500,2.0,D,637347
+Bertrand Traoré,3500,1.0,M,640427
+Dan Einbinder,3500,0.0,M,708835
+Luis Mata,3500,0.0,F,787871
+Bruno Costa,3500,0.0,F,787875
+André Silva,3500,0.0,F,787877
+Dmitri Antilevski,3500,0.0,F,840957
+Rui Moreira,3500,0.0,M,845947
+Sergio Ribeiro,3500,0.0,F,845952
+Predrag Rajkovic,3500,0.0,GK,850993
+Aleksei Rios,3500,0.0,M,884969
+Mouctar Diakhaby,3500,0.0,D,891823
+Amer Gojak,3500,0.0,M,892141
+Dmitri Likhtarovich,3400,0.0,M,419619
+Jan Kirchhoff,3400,0.0,D,485048
+Konstantinos Manolas,3400,2.1,D,490673
+Giulio Donati,3400,1.0,D,536063
+Salih Uçan,3400,0.0,M,594855
+Sergi Darder,3400,0.8,M,607943
+Sergey Chernik,3400,7.8,GK,728084
+Jonathan Tah,3400,3.4,D,740979
+Gianluca Gaudino,3400,0.0,M,839281
+Shlomi Yosef Azulay,3400,0.0,M,873237
+Haviv Ohayon,3400,0.0,GK,887120
+Dan Glazer,3400,0.0,M,891530
+Niklas Dorsch,3400,0.0,M,892081
+Sebastian Boenisch,3300,0.0,D,345726
+Tal Ben Haim,3300,0.7,D,346167
+Gary Cahill,3300,2.6,D,346244
+Jérémy Taravel,3300,6.8,D,395465
+Domenico Criscito,3300,1.5,D,396435
+Nana Asare,3300,5.1,D,396601
+David Ospina,3300,-1.0,GK,399085
+Yuval Shpungin,3300,1.8,D,418102
+Sven Ulreich,3300,0.0,GK,441440
+Kaspars Dubra,3300,0.0,D,493900
+Douglas,3300,0.0,D,512494
+Edgar Olekhnovich,3300,0.0,M,561287
+Seba,3300,0.4,M,603063
+Dylan Mboumbouni,3300,0.0,D,723233
+Uros Vitas,3300,0.0,D,818056
+Sahar Hasson,3300,0.0,GK,820401
+Olivier Kemen,3300,0.0,M,839810
+Dor Peretz,3300,0.9,M,887122
+Leandro Salino,3200,5.6,D,387292
+Aleksandr Volodko,3200,1.7,M,477374
+Eitan Tibi,3200,1.1,D,556329
+Maksim Zhavnerchik,3200,6.1,D,589635
+Ivo Pinto,3200,6.3,D,605660
+Kurt Zouma,3200,3.6,D,605690
+Luis Neto,3200,0.0,D,607949
+Filip Mladenovic,3200,11.1,D,656330
+Stefan Mitrovic,3200,1.9,D,659992
+Arthur Masuaku,3200,1.8,D,722940
+Aderllan Santos,3200,0.0,D,726144
+Hernani,3200,0.9,M,727504
+Daniel Lifshitz,3200,0.0,GK,891529
+Brian Vandenbussche,3100,0.0,GK,348202
+Barragán,3100,3.5,D,348780
+Vyacheslav Malafeev,3100,0.0,GK,372501
+Lasse Nielsen,3100,2.1,D,415435
+Dario Kresic,3100,0.0,GK,415501
+Yoel,3100,0.0,GK,444177
+Dimitris Siovas,3100,0.5,D,511155
+Mathieu Gorgelin,3100,0.0,GK,519817
+Lindsay Rose,3100,0.0,D,553949
+Denis Polyakov,3100,2.5,D,578837
+Omri Ben Harush,3100,1.5,D,612704
+Alexandru Matel,3100,0.0,D,613410
+Jamal Blackman,3100,0.0,GK,619748
+Artem Soroko,3100,0.0,GK,699832
+Yevhen Makarenko,3100,0.0,D,789983
+Antonio Jezina,3100,0.0,GK,846892
+Pavel Bogush,3100,0.0,M,884994
+Toni Lato,3100,0.0,D,885157
+Per Mertesacker,3000,3.1,D,345605
+Tom Starke,3000,0.0,GK,361616
+David Yelldell,3000,0.0,GK,371266
+Carlos García,3000,0.0,D,398232
+Gordon Schildenfeld,3000,0.0,D,415336
+Leandro Castán,3000,0.0,D,415469
+Yoav Ziv,3000,0.0,D,418121
+Aly Cissokho,3000,0.0,D,440579
+Bakary Koné,3000,0.0,D,440603
+Yannick Thoelen,3000,0.0,GK,459599
+Mykola Morozyuk,3000,0.0,D,475412
+Aymen Abdennour,3000,2.3,D,537149
+Papy Djilobodji,3000,0.0,D,540069
+Gabriel,3000,3.1,D,559289
+Jordi Masip,3000,0.0,GK,564644
+Stefanos Kapino,3000,0.0,GK,565008
+Joao Costa,3000,0.0,GK,615399
+Rafa,3000,0.0,D,615400
+Erik Johansson,3000,0.0,D,653125
+Baba Rahman,3000,6.5,D,660003
+Ivan Lucic,3000,0.0,GK,660033
+Marko Mikulic,3000,0.0,GK,699510
+Lucas Mocio,3000,0.0,GK,723228
+Romaric N'Gouma,3000,0.0,D,723235
+André Caio,3000,0.0,GK,787856
+Elio Capradossi,3000,0.0,D,794250
+Filip Benkovic,3000,0.0,D,794466
+Antonio Sivera,3000,0.0,GK,804638
+Denis Scherbitski,3000,0.0,GK,840898
+Evgeni Yablonski,3000,1.5,M,840942
+Ola Aina,3000,0.0,D,880901
+Jake Clarke-Salter,3000,0.0,D,880903
+Anton Chichkan,3000,0.0,GK,884915
+Dmitri Baiduk,3000,0.0,D,884925
+Maksim Rovbut,3000,0.0,D,884942
+Mario Musa,3000,0.0,D,885090
+Felix Pohl,3000,0.0,D,892080
+Alberto Botía,2900,0.0,D,422342
+Maksim Volodko,2900,6.2,D,528838
+Vitali Gayduchik,2800,0.0,D,597451
+Praxitelis Vouros,2800,0.0,D,824889
+Ioannis Maniatis,2500,0.0,D,415506
+Oz Raly,2500,0.0,D,516502
+Eli Dasa,2500,8.8,D,736306
+Sean Goldberg,2500,0.0,D,888693

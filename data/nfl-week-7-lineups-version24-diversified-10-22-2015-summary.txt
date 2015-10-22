@@ -1,0 +1,1299 @@
+Points: 209.7
+Cost: 49900
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+   Blake Bortles: 21.9 / 5400 QB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+ Steve Smith Sr.: 22.8 / 6200 WR
+Brandon Marshall: 24.4 / 7800 WR
+            Jets: 9.6 / 2900 DST
+
+Points: 209.3
+Cost: 50000
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+  Blake Bortles: 21.9 / 5400 QB
+   Stefon Diggs: 18.8 / 4200 WR
+    Chris Ivory: 22.1 / 5800 RB
+Steve Smith Sr.: 22.8 / 6200 WR
+   Keenan Allen: 23.2 / 7700 WR
+       Panthers: 10.4 / 3100 DST
+
+Points: 209.1
+Cost: 50000
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+   Stefon Diggs: 18.8 / 4200 WR
+    Chris Ivory: 22.1 / 5800 RB
+  Philip Rivers: 23.0 / 6500 QB
+  Gary Barnidge: 17.4 / 4900 TE
+           Rams: 9.6 / 2400 DST
+
+Points: 208.9
+Cost: 50000
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+   Blake Bortles: 21.9 / 5400 QB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+Brandon Marshall: 24.4 / 7800 WR
+ Travis Benjamin: 19.8 / 5400 WR
+        Seahawks: 11.8 / 3800 DST
+
+Points: 207.2
+Cost: 49700
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+   Blake Bortles: 21.9 / 5400 QB
+    Stefon Diggs: 18.8 / 4200 WR
+ Steve Smith Sr.: 22.8 / 6200 WR
+Brandon Marshall: 24.4 / 7800 WR
+     Doug Martin: 18.0 / 4900 RB
+       Cardinals: 11.2 / 3600 DST
+
+Points: 206.7
+Cost: 50000
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+      Tom Brady: 27.5 / 8500 QB
+    Chris Ivory: 22.1 / 5800 RB
+Steve Smith Sr.: 22.8 / 6200 WR
+Travis Benjamin: 19.8 / 5400 WR
+ Ladarius Green: 13.2 / 2900 TE
+      Cardinals: 11.2 / 3600 DST
+
+Points: 206.5
+Cost: 50000
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+ Steve Smith Sr.: 22.8 / 6200 WR
+      Cam Newton: 22.7 / 6600 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+     Doug Martin: 18.0 / 4900 RB
+        Panthers: 10.4 / 3100 DST
+
+Points: 206.2
+Cost: 50000
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+      Tom Brady: 27.5 / 8500 QB
+   Stefon Diggs: 18.8 / 4200 WR
+    Chris Ivory: 22.1 / 5800 RB
+Steve Smith Sr.: 22.8 / 6200 WR
+ Delanie Walker: 13.1 / 3900 TE
+       Seahawks: 11.8 / 3800 DST
+
+Points: 205.6
+Cost: 49900
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+   Philip Rivers: 23.0 / 6500 QB
+     Julio Jones: 25.3 / 9100 WR
+Rishard Matthews: 16.7 / 4300 WR
+            Rams: 9.6 / 2400 DST
+
+Points: 205.5
+Cost: 49900
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+ DeAndre Hopkins: 28.1 / 8600 WR
+   Blake Bortles: 21.9 / 5400 QB
+    Stefon Diggs: 18.8 / 4200 WR
+Brandon Marshall: 24.4 / 7800 WR
+    Theo Riddick: 12.6 / 3400 RB
+            Jets: 9.6 / 2900 DST
+
+Points: 205.3
+Cost: 49900
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+Steve Smith Sr.: 22.8 / 6200 WR
+     Cam Newton: 22.7 / 6600 QB
+    Doug Martin: 18.0 / 4900 RB
+ Ladarius Green: 13.2 / 2900 TE
+       Panthers: 10.4 / 3100 DST
+
+Points: 205.3
+Cost: 49800
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+      Tom Brady: 27.5 / 8500 QB
+   Stefon Diggs: 18.8 / 4200 WR
+    Chris Ivory: 22.1 / 5800 RB
+   Keenan Allen: 23.2 / 7700 WR
+ Ladarius Green: 13.2 / 2900 TE
+       Panthers: 10.4 / 3100 DST
+
+Points: 205.1
+Cost: 50000
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+  Blake Bortles: 21.9 / 5400 QB
+   Stefon Diggs: 18.8 / 4200 WR
+   Keenan Allen: 23.2 / 7700 WR
+   Theo Riddick: 12.6 / 3400 RB
+       Panthers: 10.4 / 3100 DST
+
+Points: 204.9
+Cost: 49900
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+ DeAndre Hopkins: 28.1 / 8600 WR
+   Blake Bortles: 21.9 / 5400 QB
+Brandon Marshall: 24.4 / 7800 WR
+     Doug Martin: 18.0 / 4900 RB
+  Ladarius Green: 13.2 / 2900 TE
+          Eagles: 9.2 / 2700 DST
+
+Points: 204.6
+Cost: 49500
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+  Blake Bortles: 21.9 / 5400 QB
+   Stefon Diggs: 18.8 / 4200 WR
+   Le'Veon Bell: 22.9 / 8400 RB
+ Ladarius Green: 13.2 / 2900 TE
+           Rams: 9.6 / 2400 DST
+
+Points: 204.3
+Cost: 49500
+
+  Martavis Bryant: 35.5 / 4700 WR
+    Antonio Gates: 24.4 / 5000 TE
+  Devonta Freeman: 30.2 / 7900 RB
+  DeAndre Hopkins: 28.1 / 8600 WR
+     Stefon Diggs: 18.8 / 4200 WR
+    Philip Rivers: 23.0 / 6500 QB
+  Travis Benjamin: 19.8 / 5400 WR
+LeGarrette Blount: 14.9 / 4800 RB
+             Rams: 9.6 / 2400 DST
+
+Points: 204.1
+Cost: 49900
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+     Chris Ivory: 22.1 / 5800 RB
+      Cam Newton: 22.7 / 6600 QB
+Brandon Marshall: 24.4 / 7800 WR
+ Travis Benjamin: 19.8 / 5400 WR
+  Ladarius Green: 13.2 / 2900 TE
+        Seahawks: 11.8 / 3800 DST
+
+Points: 203.5
+Cost: 49700
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+   Philip Rivers: 23.0 / 6500 QB
+Brandon Marshall: 24.4 / 7800 WR
+     Doug Martin: 18.0 / 4900 RB
+   Gary Barnidge: 17.4 / 4900 TE
+        Seahawks: 11.8 / 3800 DST
+
+Points: 203.5
+Cost: 49900
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+      Tom Brady: 27.5 / 8500 QB
+Steve Smith Sr.: 22.8 / 6200 WR
+ Ladarius Green: 13.2 / 2900 TE
+   Theo Riddick: 12.6 / 3400 RB
+         Eagles: 9.2 / 2700 DST
+
+Points: 202.6
+Cost: 50000
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+       Tom Brady: 27.5 / 8500 QB
+Brandon Marshall: 24.4 / 7800 WR
+ Travis Benjamin: 19.8 / 5400 WR
+     Doug Martin: 18.0 / 4900 RB
+  Ladarius Green: 13.2 / 2900 TE
+            Jets: 9.6 / 2900 DST
+
+Points: 202.5
+Cost: 49200
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+ Steve Smith Sr.: 22.8 / 6200 WR
+      Cam Newton: 22.7 / 6600 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+    Theo Riddick: 12.6 / 3400 RB
+        Seahawks: 11.8 / 3800 DST
+
+Points: 202.0
+Cost: 50000
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+   Philip Rivers: 23.0 / 6500 QB
+Brandon Marshall: 24.4 / 7800 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+     Doug Martin: 18.0 / 4900 RB
+  Ladarius Green: 13.2 / 2900 TE
+            Jets: 9.6 / 2900 DST
+
+Points: 201.7
+Cost: 49800
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+ DeAndre Hopkins: 28.1 / 8600 WR
+       Tom Brady: 27.5 / 8500 QB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+Rishard Matthews: 16.7 / 4300 WR
+  Ladarius Green: 13.2 / 2900 TE
+            Jets: 9.6 / 2900 DST
+
+Points: 201.7
+Cost: 49500
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+      Tom Brady: 27.5 / 8500 QB
+Travis Benjamin: 19.8 / 5400 WR
+ Ladarius Green: 13.2 / 2900 TE
+   Theo Riddick: 12.6 / 3400 RB
+       Panthers: 10.4 / 3100 DST
+
+Points: 201.5
+Cost: 49800
+
+Martavis Bryant: 35.5 / 4700 WR
+Devonta Freeman: 30.2 / 7900 RB
+      Tom Brady: 27.5 / 8500 QB
+   Stefon Diggs: 18.8 / 4200 WR
+    Chris Ivory: 22.1 / 5800 RB
+Steve Smith Sr.: 22.8 / 6200 WR
+    Doug Martin: 18.0 / 4900 RB
+  Gary Barnidge: 17.4 / 4900 TE
+         Eagles: 9.2 / 2700 DST
+
+Points: 201.5
+Cost: 50000
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+Steve Smith Sr.: 22.8 / 6200 WR
+  Philip Rivers: 23.0 / 6500 QB
+   Theo Riddick: 12.6 / 3400 RB
+ Delanie Walker: 13.1 / 3900 TE
+       Seahawks: 11.8 / 3800 DST
+
+Points: 201.5
+Cost: 50000
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+ DeAndre Hopkins: 28.1 / 8600 WR
+      Cam Newton: 22.7 / 6600 QB
+Brandon Marshall: 24.4 / 7800 WR
+  Ladarius Green: 13.2 / 2900 TE
+    Theo Riddick: 12.6 / 3400 RB
+        Panthers: 10.4 / 3100 DST
+
+Points: 200.5
+Cost: 50000
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ DeAndre Hopkins: 28.1 / 8600 WR
+     Chris Ivory: 22.1 / 5800 RB
+   Philip Rivers: 23.0 / 6500 QB
+Brandon Marshall: 24.4 / 7800 WR
+     Doug Martin: 18.0 / 4900 RB
+  Ladarius Green: 13.2 / 2900 TE
+        Seahawks: 11.8 / 3800 DST
+
+Points: 199.8
+Cost: 49800
+
+Martavis Bryant: 35.5 / 4700 WR
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+      Tom Brady: 27.5 / 8500 QB
+   Stefon Diggs: 18.8 / 4200 WR
+    Chris Ivory: 22.1 / 5800 RB
+ Ladarius Green: 13.2 / 2900 TE
+   Theo Riddick: 12.6 / 3400 RB
+       Seahawks: 11.8 / 3800 DST
+
+Points: 199.2
+Cost: 49600
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+ DeAndre Hopkins: 28.1 / 8600 WR
+       Tom Brady: 27.5 / 8500 QB
+    Stefon Diggs: 18.8 / 4200 WR
+     Doug Martin: 18.0 / 4900 RB
+Rishard Matthews: 16.7 / 4300 WR
+  Ladarius Green: 13.2 / 2900 TE
+       Cardinals: 11.2 / 3600 DST
+
+Points: 199.2
+Cost: 49300
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+       Tom Brady: 27.5 / 8500 QB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+ Travis Benjamin: 19.8 / 5400 WR
+Rishard Matthews: 16.7 / 4300 WR
+   Gary Barnidge: 17.4 / 4900 TE
+       Cardinals: 11.2 / 3600 DST
+
+Points: 198.5
+Cost: 49900
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+Brandon Marshall: 24.4 / 7800 WR
+   Carson Palmer: 22.2 / 6700 QB
+Rishard Matthews: 16.7 / 4300 WR
+   Gary Barnidge: 17.4 / 4900 TE
+       Cardinals: 11.2 / 3600 DST
+
+Points: 197.5
+Cost: 49300
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ DeAndre Hopkins: 28.1 / 8600 WR
+     Chris Ivory: 22.1 / 5800 RB
+Brandon Marshall: 24.4 / 7800 WR
+   Carson Palmer: 22.2 / 6700 QB
+     Doug Martin: 18.0 / 4900 RB
+  Ladarius Green: 13.2 / 2900 TE
+            Jets: 9.6 / 2900 DST
+
+Points: 197.5
+Cost: 49200
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+   Blake Bortles: 21.9 / 5400 QB
+ Steve Smith Sr.: 22.8 / 6200 WR
+Brandon Marshall: 24.4 / 7800 WR
+  Ladarius Green: 13.2 / 2900 TE
+        Seahawks: 11.8 / 3800 DST
+    LeSean McCoy: 13.3 / 5500 RB
+
+Points: 197.2
+Cost: 49700
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+       Tom Brady: 27.5 / 8500 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+ Travis Benjamin: 19.8 / 5400 WR
+  Ladarius Green: 13.2 / 2900 TE
+            Rams: 9.6 / 2400 DST
+    LeSean McCoy: 13.3 / 5500 RB
+
+Points: 196.7
+Cost: 49700
+
+Martavis Bryant: 35.5 / 4700 WR
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+     Cam Newton: 22.7 / 6600 QB
+Travis Benjamin: 19.8 / 5400 WR
+    Doug Martin: 18.0 / 4900 RB
+  Gary Barnidge: 17.4 / 4900 TE
+ Ladarius Green: 13.2 / 2900 TE
+       Seahawks: 11.8 / 3800 DST
+
+Points: 195.7
+Cost: 49400
+
+Martavis Bryant: 35.5 / 4700 WR
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+      Tom Brady: 27.5 / 8500 QB
+   Stefon Diggs: 18.8 / 4200 WR
+  Gary Barnidge: 17.4 / 4900 TE
+ Ladarius Green: 13.2 / 2900 TE
+ Danny Woodhead: 14.6 / 4600 RB
+       Panthers: 10.4 / 3100 DST
+
+Points: 195.4
+Cost: 49700
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ DeAndre Hopkins: 28.1 / 8600 WR
+       Tom Brady: 27.5 / 8500 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+     Doug Martin: 18.0 / 4900 RB
+  Ladarius Green: 13.2 / 2900 TE
+  Danny Woodhead: 14.6 / 4600 RB
+        Panthers: 10.4 / 3100 DST
+
+Points: 195.1
+Cost: 49200
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+      Tom Brady: 27.5 / 8500 QB
+    Chris Ivory: 22.1 / 5800 RB
+Steve Smith Sr.: 22.8 / 6200 WR
+   Keenan Allen: 23.2 / 7700 WR
+ Ladarius Green: 13.2 / 2900 TE
+ Danny Woodhead: 14.6 / 4600 RB
+       Seahawks: 11.8 / 3800 DST
+
+Points: 194.6
+Cost: 49800
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+   Carson Palmer: 22.2 / 6700 QB
+     Julio Jones: 25.3 / 9100 WR
+Rishard Matthews: 16.7 / 4300 WR
+     Jordan Reed: 14.2 / 4200 TE
+            Jets: 9.6 / 2900 DST
+
+Points: 194.5
+Cost: 49800
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+ DeAndre Hopkins: 28.1 / 8600 WR
+    Stefon Diggs: 18.8 / 4200 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+     Brian Hoyer: 19.2 / 5300 QB
+   Gary Barnidge: 17.4 / 4900 TE
+        Seahawks: 11.8 / 3800 DST
+    Marcel Reece: 9.8 / 3000 RB
+
+Points: 194.5
+Cost: 48900
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+      Tom Brady: 27.5 / 8500 QB
+   Stefon Diggs: 18.8 / 4200 WR
+Travis Benjamin: 19.8 / 5400 WR
+ Danny Woodhead: 14.6 / 4600 RB
+       Panthers: 10.4 / 3100 DST
+   LeSean McCoy: 13.3 / 5500 RB
+
+Points: 194.3
+Cost: 49700
+
+Martavis Bryant: 35.5 / 4700 WR
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+      Tom Brady: 27.5 / 8500 QB
+    Doug Martin: 18.0 / 4900 RB
+  Gary Barnidge: 17.4 / 4900 TE
+ Ladarius Green: 13.2 / 2900 TE
+ Stevie Johnson: 12.6 / 3500 WR
+       Seahawks: 11.8 / 3800 DST
+
+Points: 194.1
+Cost: 49700
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+ Steve Smith Sr.: 22.8 / 6200 WR
+Brandon Marshall: 24.4 / 7800 WR
+   Carson Palmer: 22.2 / 6700 QB
+ Travis Benjamin: 19.8 / 5400 WR
+   Gary Barnidge: 17.4 / 4900 TE
+    Theo Riddick: 12.6 / 3400 RB
+          Eagles: 9.2 / 2700 DST
+
+Points: 192.9
+Cost: 49800
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+       Tom Brady: 27.5 / 8500 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+    Keenan Allen: 23.2 / 7700 WR
+   Gary Barnidge: 17.4 / 4900 TE
+  Ladarius Green: 13.2 / 2900 TE
+    Theo Riddick: 12.6 / 3400 RB
+            Rams: 9.6 / 2400 DST
+
+Points: 192.9
+Cost: 50000
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+   Blake Bortles: 21.9 / 5400 QB
+Brandon Marshall: 24.4 / 7800 WR
+     Julio Jones: 25.3 / 9100 WR
+     Doug Martin: 18.0 / 4900 RB
+  Ladarius Green: 13.2 / 2900 TE
+  Stevie Johnson: 12.6 / 3500 WR
+        Seahawks: 11.8 / 3800 DST
+
+Points: 192.8
+Cost: 49600
+
+Martavis Bryant: 35.5 / 4700 WR
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+   Stefon Diggs: 18.8 / 4200 WR
+  Carson Palmer: 22.2 / 6700 QB
+  Gary Barnidge: 17.4 / 4900 TE
+    Jordan Reed: 14.2 / 4200 TE
+ Danny Woodhead: 14.6 / 4600 RB
+       Seahawks: 11.8 / 3800 DST
+
+Points: 192.7
+Cost: 47800
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+   Philip Rivers: 23.0 / 6500 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+     Jordan Reed: 14.2 / 4200 TE
+            Rams: 9.6 / 2400 DST
+    LeSean McCoy: 13.3 / 5500 RB
+
+Points: 192.2
+Cost: 49800
+
+Martavis Bryant: 35.5 / 4700 WR
+  Antonio Gates: 24.4 / 5000 TE
+DeAndre Hopkins: 28.1 / 8600 WR
+      Tom Brady: 27.5 / 8500 QB
+    Julio Jones: 25.3 / 9100 WR
+    Doug Martin: 18.0 / 4900 RB
+ Ladarius Green: 13.2 / 2900 TE
+       Panthers: 10.4 / 3100 DST
+   Marcel Reece: 9.8 / 3000 RB
+
+Points: 191.8
+Cost: 49700
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+   Carson Palmer: 22.2 / 6700 QB
+Rishard Matthews: 16.7 / 4300 WR
+  Rob Gronkowski: 20.3 / 8100 TE
+     Jordan Reed: 14.2 / 4200 TE
+        Seahawks: 11.8 / 3800 DST
+
+Points: 191.6
+Cost: 49500
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+ DeAndre Hopkins: 28.1 / 8600 WR
+   Blake Bortles: 21.9 / 5400 QB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+ Travis Benjamin: 19.8 / 5400 WR
+Rishard Matthews: 16.7 / 4300 WR
+            Jets: 9.6 / 2900 DST
+
+Points: 189.6
+Cost: 50000
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+   Philip Rivers: 23.0 / 6500 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+ Travis Benjamin: 19.8 / 5400 WR
+     Doug Martin: 18.0 / 4900 RB
+            Jets: 9.6 / 2900 DST
+
+Points: 189.2
+Cost: 48600
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+       Tom Brady: 27.5 / 8500 QB
+Brandon Marshall: 24.4 / 7800 WR
+ Travis Benjamin: 19.8 / 5400 WR
+  Ladarius Green: 13.2 / 2900 TE
+     Jordan Reed: 14.2 / 4200 TE
+    Theo Riddick: 12.6 / 3400 RB
+        Seahawks: 11.8 / 3800 DST
+
+Points: 189.0
+Cost: 49500
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+ Steve Smith Sr.: 22.8 / 6200 WR
+      Cam Newton: 22.7 / 6600 QB
+Brandon Marshall: 24.4 / 7800 WR
+  Ladarius Green: 13.2 / 2900 TE
+        Panthers: 10.4 / 3100 DST
+
+Points: 188.9
+Cost: 49700
+
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+   Stefon Diggs: 18.8 / 4200 WR
+    Chris Ivory: 22.1 / 5800 RB
+Steve Smith Sr.: 22.8 / 6200 WR
+  Carson Palmer: 22.2 / 6700 QB
+Travis Benjamin: 19.8 / 5400 WR
+  Gary Barnidge: 17.4 / 4900 TE
+      Cardinals: 11.2 / 3600 DST
+
+Points: 188.8
+Cost: 50000
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+   Philip Rivers: 23.0 / 6500 QB
+Brandon Marshall: 24.4 / 7800 WR
+     Doug Martin: 18.0 / 4900 RB
+Rishard Matthews: 16.7 / 4300 WR
+       Cardinals: 11.2 / 3600 DST
+
+Points: 188.4
+Cost: 49900
+
+Martavis Bryant: 35.5 / 4700 WR
+Devonta Freeman: 30.2 / 7900 RB
+  Carson Palmer: 22.2 / 6700 QB
+Travis Benjamin: 19.8 / 5400 WR
+    Julio Jones: 25.3 / 9100 WR
+  Gary Barnidge: 17.4 / 4900 TE
+    Jordan Reed: 14.2 / 4200 TE
+   Theo Riddick: 12.6 / 3400 RB
+      Cardinals: 11.2 / 3600 DST
+
+Points: 188.4
+Cost: 50000
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+Larry Fitzgerald: 23.7 / 7400 WR
+   Carson Palmer: 22.2 / 6700 QB
+ Travis Benjamin: 19.8 / 5400 WR
+     Doug Martin: 18.0 / 4900 RB
+          Eagles: 9.2 / 2700 DST
+
+Points: 188.3
+Cost: 49900
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+ Steve Smith Sr.: 22.8 / 6200 WR
+      Cam Newton: 22.7 / 6600 QB
+Brandon Marshall: 24.4 / 7800 WR
+     Doug Martin: 18.0 / 4900 RB
+   Gary Barnidge: 17.4 / 4900 TE
+            Rams: 9.6 / 2400 DST
+
+Points: 188.2
+Cost: 49800
+
+ Martavis Bryant: 35.5 / 4700 WR
+     Chris Ivory: 22.1 / 5800 RB
+ Steve Smith Sr.: 22.8 / 6200 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+   Carson Palmer: 22.2 / 6700 QB
+     Doug Martin: 18.0 / 4900 RB
+  Ladarius Green: 13.2 / 2900 TE
+  Rob Gronkowski: 20.3 / 8100 TE
+        Panthers: 10.4 / 3100 DST
+
+Points: 188.0
+Cost: 48300
+
+ Martavis Bryant: 35.5 / 4700 WR
+   Blake Bortles: 21.9 / 5400 QB
+    Stefon Diggs: 18.8 / 4200 WR
+     Chris Ivory: 22.1 / 5800 RB
+ Steve Smith Sr.: 22.8 / 6200 WR
+Brandon Marshall: 24.4 / 7800 WR
+   Gary Barnidge: 17.4 / 4900 TE
+        Seahawks: 11.8 / 3800 DST
+    LeSean McCoy: 13.3 / 5500 RB
+
+Points: 187.9
+Cost: 48400
+
+Martavis Bryant: 35.5 / 4700 WR
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+   Stefon Diggs: 18.8 / 4200 WR
+  Carson Palmer: 22.2 / 6700 QB
+    Jordan Reed: 14.2 / 4200 TE
+ Danny Woodhead: 14.6 / 4600 RB
+ Delanie Walker: 13.1 / 3900 TE
+      Cardinals: 11.2 / 3600 DST
+
+Points: 186.0
+Cost: 49300
+
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+    Chris Ivory: 22.1 / 5800 RB
+Steve Smith Sr.: 22.8 / 6200 WR
+  Philip Rivers: 23.0 / 6500 QB
+ Ladarius Green: 13.2 / 2900 TE
+ Stevie Johnson: 12.6 / 3500 WR
+           Jets: 9.6 / 2900 DST
+
+Points: 185.9
+Cost: 49800
+
+ Martavis Bryant: 35.5 / 4700 WR
+ DeAndre Hopkins: 28.1 / 8600 WR
+     Chris Ivory: 22.1 / 5800 RB
+   Philip Rivers: 23.0 / 6500 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+Rishard Matthews: 16.7 / 4300 WR
+  Delanie Walker: 13.1 / 3900 TE
+        Panthers: 10.4 / 3100 DST
+    LeSean McCoy: 13.3 / 5500 RB
+
+Points: 185.8
+Cost: 50000
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+ DeAndre Hopkins: 28.1 / 8600 WR
+   Blake Bortles: 21.9 / 5400 QB
+Brandon Marshall: 24.4 / 7800 WR
+ Travis Benjamin: 19.8 / 5400 WR
+  Ladarius Green: 13.2 / 2900 TE
+    Theo Riddick: 12.6 / 3400 RB
+       Cardinals: 11.2 / 3600 DST
+
+Points: 185.8
+Cost: 49700
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+ DeAndre Hopkins: 28.1 / 8600 WR
+    Stefon Diggs: 18.8 / 4200 WR
+   Philip Rivers: 23.0 / 6500 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+  Ladarius Green: 13.2 / 2900 TE
+    Theo Riddick: 12.6 / 3400 RB
+        Seahawks: 11.8 / 3800 DST
+
+Points: 185.8
+Cost: 48700
+
+Martavis Bryant: 35.5 / 4700 WR
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+  Carson Palmer: 22.2 / 6700 QB
+Travis Benjamin: 19.8 / 5400 WR
+ Ladarius Green: 13.2 / 2900 TE
+ Delanie Walker: 13.1 / 3900 TE
+       Panthers: 10.4 / 3100 DST
+   LeSean McCoy: 13.3 / 5500 RB
+
+Points: 184.7
+Cost: 49300
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+   Carson Palmer: 22.2 / 6700 QB
+ Travis Benjamin: 19.8 / 5400 WR
+    Keenan Allen: 23.2 / 7700 WR
+Rishard Matthews: 16.7 / 4300 WR
+     Jordan Reed: 14.2 / 4200 TE
+    LeSean McCoy: 13.3 / 5500 RB
+            Jets: 9.6 / 2900 DST
+
+Points: 184.7
+Cost: 50000
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+   Philip Rivers: 23.0 / 6500 QB
+Brandon Marshall: 24.4 / 7800 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+     Doug Martin: 18.0 / 4900 RB
+    Theo Riddick: 12.6 / 3400 RB
+            Jets: 9.6 / 2900 DST
+
+Points: 184.6
+Cost: 49600
+
+ Martavis Bryant: 35.5 / 4700 WR
+ DeAndre Hopkins: 28.1 / 8600 WR
+     Chris Ivory: 22.1 / 5800 RB
+Larry Fitzgerald: 23.7 / 7400 WR
+     Brian Hoyer: 19.2 / 5300 QB
+Rishard Matthews: 16.7 / 4300 WR
+     Jordan Reed: 14.2 / 4200 TE
+        Seahawks: 11.8 / 3800 DST
+    LeSean McCoy: 13.3 / 5500 RB
+
+Points: 184.4
+Cost: 49100
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+       Tom Brady: 27.5 / 8500 QB
+    Stefon Diggs: 18.8 / 4200 WR
+ Steve Smith Sr.: 22.8 / 6200 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+  Ladarius Green: 13.2 / 2900 TE
+    Theo Riddick: 12.6 / 3400 RB
+       Cardinals: 11.2 / 3600 DST
+
+Points: 184.4
+Cost: 48900
+
+ Martavis Bryant: 35.5 / 4700 WR
+ Devonta Freeman: 30.2 / 7900 RB
+Brandon Marshall: 24.4 / 7800 WR
+   Carson Palmer: 22.2 / 6700 QB
+ Travis Benjamin: 19.8 / 5400 WR
+Rishard Matthews: 16.7 / 4300 WR
+  Delanie Walker: 13.1 / 3900 TE
+    LeSean McCoy: 13.3 / 5500 RB
+          Eagles: 9.2 / 2700 DST
+
+Points: 183.6
+Cost: 49300
+
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+      Tom Brady: 27.5 / 8500 QB
+   Stefon Diggs: 18.8 / 4200 WR
+Travis Benjamin: 19.8 / 5400 WR
+ Ladarius Green: 13.2 / 2900 TE
+       Seahawks: 11.8 / 3800 DST
+   Marcel Reece: 9.8 / 3000 RB
+
+Points: 183.3
+Cost: 49800
+
+Martavis Bryant: 35.5 / 4700 WR
+Devonta Freeman: 30.2 / 7900 RB
+  Philip Rivers: 23.0 / 6500 QB
+    Julio Jones: 25.3 / 9100 WR
+ Rob Gronkowski: 20.3 / 8100 TE
+    Jordan Reed: 14.2 / 4200 TE
+   Theo Riddick: 12.6 / 3400 RB
+ Stevie Johnson: 12.6 / 3500 WR
+           Rams: 9.6 / 2400 DST
+
+Points: 183.1
+Cost: 46500
+
+Martavis Bryant: 35.5 / 4700 WR
+  Blake Bortles: 21.9 / 5400 QB
+    Chris Ivory: 22.1 / 5800 RB
+Steve Smith Sr.: 22.8 / 6200 WR
+    Julio Jones: 25.3 / 9100 WR
+    Doug Martin: 18.0 / 4900 RB
+ Ladarius Green: 13.2 / 2900 TE
+ Delanie Walker: 13.1 / 3900 TE
+      Cardinals: 11.2 / 3600 DST
+
+Points: 182.7
+Cost: 49400
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+   Philip Rivers: 23.0 / 6500 QB
+Brandon Marshall: 24.4 / 7800 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+  Ladarius Green: 13.2 / 2900 TE
+  Danny Woodhead: 14.6 / 4600 RB
+        Panthers: 10.4 / 3100 DST
+
+Points: 182.7
+Cost: 49300
+
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+Steve Smith Sr.: 22.8 / 6200 WR
+  Carson Palmer: 22.2 / 6700 QB
+    Doug Martin: 18.0 / 4900 RB
+ Ladarius Green: 13.2 / 2900 TE
+ Stevie Johnson: 12.6 / 3500 WR
+      Cardinals: 11.2 / 3600 DST
+
+Points: 182.4
+Cost: 49900
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+   Blake Bortles: 21.9 / 5400 QB
+    Stefon Diggs: 18.8 / 4200 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+Rishard Matthews: 16.7 / 4300 WR
+    Le'Veon Bell: 22.9 / 8400 RB
+  Danny Woodhead: 14.6 / 4600 RB
+          Eagles: 9.2 / 2700 DST
+
+Points: 181.9
+Cost: 48900
+
+  Antonio Gates: 24.4 / 5000 TE
+DeAndre Hopkins: 28.1 / 8600 WR
+      Tom Brady: 27.5 / 8500 QB
+   Stefon Diggs: 18.8 / 4200 WR
+    Chris Ivory: 22.1 / 5800 RB
+Steve Smith Sr.: 22.8 / 6200 WR
+ Ladarius Green: 13.2 / 2900 TE
+ Danny Woodhead: 14.6 / 4600 RB
+       Panthers: 10.4 / 3100 DST
+
+Points: 181.5
+Cost: 48200
+
+  Antonio Gates: 24.4 / 5000 TE
+DeAndre Hopkins: 28.1 / 8600 WR
+      Tom Brady: 27.5 / 8500 QB
+   Stefon Diggs: 18.8 / 4200 WR
+    Chris Ivory: 22.1 / 5800 RB
+Travis Benjamin: 19.8 / 5400 WR
+    Doug Martin: 18.0 / 4900 RB
+ Ladarius Green: 13.2 / 2900 TE
+           Jets: 9.6 / 2900 DST
+
+Points: 181.2
+Cost: 49600
+
+  Antonio Gates: 24.4 / 5000 TE
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+   Stefon Diggs: 18.8 / 4200 WR
+    Brian Hoyer: 19.2 / 5300 QB
+   Le'Veon Bell: 22.9 / 8400 RB
+ Ladarius Green: 13.2 / 2900 TE
+ Stevie Johnson: 12.6 / 3500 WR
+       Seahawks: 11.8 / 3800 DST
+
+Points: 180.1
+Cost: 48900
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+Brandon Marshall: 24.4 / 7800 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+   Carson Palmer: 22.2 / 6700 QB
+ Travis Benjamin: 19.8 / 5400 WR
+  Ladarius Green: 13.2 / 2900 TE
+    Theo Riddick: 12.6 / 3400 RB
+            Rams: 9.6 / 2400 DST
+
+Points: 179.3
+Cost: 50000
+
+   Antonio Gates: 24.4 / 5000 TE
+ Devonta Freeman: 30.2 / 7900 RB
+Brandon Marshall: 24.4 / 7800 WR
+   Carson Palmer: 22.2 / 6700 QB
+ Travis Benjamin: 19.8 / 5400 WR
+    Le'Veon Bell: 22.9 / 8400 RB
+  Ladarius Green: 13.2 / 2900 TE
+  Stevie Johnson: 12.6 / 3500 WR
+            Rams: 9.6 / 2400 DST
+
+Points: 178.6
+Cost: 49600
+
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+ Steve Smith Sr.: 22.8 / 6200 WR
+Brandon Marshall: 24.4 / 7800 WR
+   Carson Palmer: 22.2 / 6700 QB
+ Travis Benjamin: 19.8 / 5400 WR
+   Gary Barnidge: 17.4 / 4900 TE
+    Theo Riddick: 12.6 / 3400 RB
+        Panthers: 10.4 / 3100 DST
+
+Points: 177.2
+Cost: 49700
+
+ Devonta Freeman: 30.2 / 7900 RB
+ DeAndre Hopkins: 28.1 / 8600 WR
+   Philip Rivers: 23.0 / 6500 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+ Travis Benjamin: 19.8 / 5400 WR
+   Gary Barnidge: 17.4 / 4900 TE
+  Ladarius Green: 13.2 / 2900 TE
+    Theo Riddick: 12.6 / 3400 RB
+          Eagles: 9.2 / 2700 DST
+
+Points: 176.2
+Cost: 49400
+
+   Antonio Gates: 24.4 / 5000 TE
+       Tom Brady: 27.5 / 8500 QB
+    Stefon Diggs: 18.8 / 4200 WR
+ Steve Smith Sr.: 22.8 / 6200 WR
+Brandon Marshall: 24.4 / 7800 WR
+     Doug Martin: 18.0 / 4900 RB
+   Gary Barnidge: 17.4 / 4900 TE
+            Rams: 9.6 / 2400 DST
+    LeSean McCoy: 13.3 / 5500 RB
+
+Points: 176.0
+Cost: 50000
+
+DeAndre Hopkins: 28.1 / 8600 WR
+    Chris Ivory: 22.1 / 5800 RB
+Steve Smith Sr.: 22.8 / 6200 WR
+  Philip Rivers: 23.0 / 6500 QB
+   Keenan Allen: 23.2 / 7700 WR
+    Doug Martin: 18.0 / 4900 RB
+  Gary Barnidge: 17.4 / 4900 TE
+ Ladarius Green: 13.2 / 2900 TE
+       Redskins: 8.2 / 2500 DST
+
+Points: 175.4
+Cost: 49700
+
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+    Chris Ivory: 22.1 / 5800 RB
+  Carson Palmer: 22.2 / 6700 QB
+   Keenan Allen: 23.2 / 7700 WR
+ Ladarius Green: 13.2 / 2900 TE
+    Jordan Reed: 14.2 / 4200 TE
+ Stevie Johnson: 12.6 / 3500 WR
+           Rams: 9.6 / 2400 DST
+
+Points: 175.0
+Cost: 49800
+
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+   Philip Rivers: 23.0 / 6500 QB
+Brandon Marshall: 24.4 / 7800 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+   Gary Barnidge: 17.4 / 4900 TE
+    Theo Riddick: 12.6 / 3400 RB
+  Delanie Walker: 13.1 / 3900 TE
+        Seahawks: 11.8 / 3800 DST
+
+Points: 174.9
+Cost: 49100
+
+Devonta Freeman: 30.2 / 7900 RB
+DeAndre Hopkins: 28.1 / 8600 WR
+Steve Smith Sr.: 22.8 / 6200 WR
+  Carson Palmer: 22.2 / 6700 QB
+Travis Benjamin: 19.8 / 5400 WR
+ Ladarius Green: 13.2 / 2900 TE
+    Jordan Reed: 14.2 / 4200 TE
+   Theo Riddick: 12.6 / 3400 RB
+       Seahawks: 11.8 / 3800 DST
+
+Points: 174.7
+Cost: 49400
+
+   Antonio Gates: 24.4 / 5000 TE
+       Tom Brady: 27.5 / 8500 QB
+    Stefon Diggs: 18.8 / 4200 WR
+Brandon Marshall: 24.4 / 7800 WR
+ Travis Benjamin: 19.8 / 5400 WR
+     Doug Martin: 18.0 / 4900 RB
+Rishard Matthews: 16.7 / 4300 WR
+        Seahawks: 11.8 / 3800 DST
+    LeSean McCoy: 13.3 / 5500 RB
+
+Points: 174.6
+Cost: 49900
+
+ DeAndre Hopkins: 28.1 / 8600 WR
+     Chris Ivory: 22.1 / 5800 RB
+   Philip Rivers: 23.0 / 6500 QB
+Brandon Marshall: 24.4 / 7800 WR
+ Travis Benjamin: 19.8 / 5400 WR
+     Doug Martin: 18.0 / 4900 RB
+  Ladarius Green: 13.2 / 2900 TE
+     Jordan Reed: 14.2 / 4200 TE
+        Seahawks: 11.8 / 3800 DST
+
+Points: 174.5
+Cost: 49200
+
+   Antonio Gates: 24.4 / 5000 TE
+       Tom Brady: 27.5 / 8500 QB
+    Stefon Diggs: 18.8 / 4200 WR
+ Steve Smith Sr.: 22.8 / 6200 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+ Travis Benjamin: 19.8 / 5400 WR
+  Danny Woodhead: 14.6 / 4600 RB
+            Rams: 9.6 / 2400 DST
+    LeSean McCoy: 13.3 / 5500 RB
+
+Points: 174.5
+Cost: 44800
+
+Martavis Bryant: 35.5 / 4700 WR
+   Stefon Diggs: 18.8 / 4200 WR
+    Chris Ivory: 22.1 / 5800 RB
+   Keenan Allen: 23.2 / 7700 WR
+    Brian Hoyer: 19.2 / 5300 QB
+  Gary Barnidge: 17.4 / 4900 TE
+ Ladarius Green: 13.2 / 2900 TE
+       Seahawks: 11.8 / 3800 DST
+   LeSean McCoy: 13.3 / 5500 RB
+
+Points: 174.2
+Cost: 49100
+
+ Devonta Freeman: 30.2 / 7900 RB
+    Stefon Diggs: 18.8 / 4200 WR
+Brandon Marshall: 24.4 / 7800 WR
+Larry Fitzgerald: 23.7 / 7400 WR
+     Brian Hoyer: 19.2 / 5300 QB
+Rishard Matthews: 16.7 / 4300 WR
+   Gary Barnidge: 17.4 / 4900 TE
+  Danny Woodhead: 14.6 / 4600 RB
+          Eagles: 9.2 / 2700 DST
+
+Points: 172.9
+Cost: 49300
+
+Devonta Freeman: 30.2 / 7900 RB
+      Tom Brady: 27.5 / 8500 QB
+   Stefon Diggs: 18.8 / 4200 WR
+Steve Smith Sr.: 22.8 / 6200 WR
+   Le'Veon Bell: 22.9 / 8400 RB
+ Ladarius Green: 13.2 / 2900 TE
+ Stevie Johnson: 12.6 / 3500 WR
+ Delanie Walker: 13.1 / 3900 TE
+       Seahawks: 11.8 / 3800 DST
+
+Points: 172.7
+Cost: 47200
+
+ Devonta Freeman: 30.2 / 7900 RB
+   Blake Bortles: 21.9 / 5400 QB
+    Stefon Diggs: 18.8 / 4200 WR
+ Travis Benjamin: 19.8 / 5400 WR
+Rishard Matthews: 16.7 / 4300 WR
+    Le'Veon Bell: 22.9 / 8400 RB
+   Gary Barnidge: 17.4 / 4900 TE
+  Ladarius Green: 13.2 / 2900 TE
+        Seahawks: 11.8 / 3800 DST
+
+Points: 172.3
+Cost: 49500
+
+ DeAndre Hopkins: 28.1 / 8600 WR
+     Chris Ivory: 22.1 / 5800 RB
+   Philip Rivers: 23.0 / 6500 QB
+Brandon Marshall: 24.4 / 7800 WR
+ Travis Benjamin: 19.8 / 5400 WR
+     Doug Martin: 18.0 / 4900 RB
+     Jordan Reed: 14.2 / 4200 TE
+  Delanie Walker: 13.1 / 3900 TE
+            Rams: 9.6 / 2400 DST
+
+Points: 162.8
+Cost: 46600
+
+ DeAndre Hopkins: 28.1 / 8600 WR
+    Stefon Diggs: 18.8 / 4200 WR
+Brandon Marshall: 24.4 / 7800 WR
+     Brian Hoyer: 19.2 / 5300 QB
+     Doug Martin: 18.0 / 4900 RB
+   Gary Barnidge: 17.4 / 4900 TE
+    Theo Riddick: 12.6 / 3400 RB
+  Delanie Walker: 13.1 / 3900 TE
+       Cardinals: 11.2 / 3600 DST
+
+Points: 162.8
+Cost: 49100
+
+     Chris Ivory: 22.1 / 5800 RB
+   Philip Rivers: 23.0 / 6500 QB
+Larry Fitzgerald: 23.7 / 7400 WR
+ Travis Benjamin: 19.8 / 5400 WR
+     Julio Jones: 25.3 / 9100 WR
+     Jordan Reed: 14.2 / 4200 TE
+  Delanie Walker: 13.1 / 3900 TE
+        Seahawks: 11.8 / 3800 DST
+    Marcel Reece: 9.8 / 3000 RB

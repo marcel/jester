@@ -626,6 +626,10 @@ class Player
     projection_consensus != -1
   end
   
+  def i
+    self[:i] == "" ? " " : self[:i]
+  end
+  
   def dk?
     !ffn?
   end
@@ -720,7 +724,8 @@ if __FILE__ == $0
     puts "name,salary,points,position,id"
     
     players.each do |player|
-      row = [:name, :salary, :points, :position, :id].map {|prop| player.send(prop)}.join(",")
+      next if player.i == "O" || player.i == "D"
+      row = [:name, :salary, :points, :position, :id, :i].map {|prop| player.send(prop) || " "}.join(",")
       puts row
     end
   end

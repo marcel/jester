@@ -4,4 +4,8 @@ object MathUtil {
 	def truncate(d: Double) = {
 		Math.round(d * 100.0) / 100.0
 	}
+
+	def percent(d: Double) = {
+    truncate(d * 100.0)
+  }
 }

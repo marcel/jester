@@ -1,6 +1,5 @@
 package com.andbutso.jester
 
-import scala.annotation.tailrec
 import scala.collection.mutable
 
 object PossiblePlayers {
@@ -13,12 +12,86 @@ object PossiblePlayers {
 		Position.WR -> 3
 	)
 
-	def apply(players: Seq[Player]): PossiblePlayers = {
-		PossiblePlayers(players.map { _.ref }.toSet)
+	def apply(rosterRequirement: RosterRequirement, players: Seq[Player]): PossiblePlayers = {
+		PossiblePlayers(rosterRequirement, players.map { _.ref }.toSet)
 	}
 }
 
-case class PossiblePlayers(players: Set[PlayerRef]) extends Valueable {
+case class RosterOptimizer(
+  possiblePlayers: PossiblePlayers,
+  allPlayers: AllPlayers = PlayerData.all
+) {
+  def alternativesFor(name: String) = {
+    allPlayers(name).headOption.map { player =>
+      val isFlex: () => Boolean = { () =>
+        val remainingPlayers = possiblePlayers - player.ref
+
+        player.isFlex && {
+          PossiblePlayers.minimumSlotsPerPosition.forall { case (position, minimum) =>
+            remainingPlayers.byPosition.get(position).exists { playersAtPosition =>
+              playersAtPosition.size == minimum
+            }
+          }
+        }
+      }
+
+      allPlayers.alternativesFor(
+        player,
+        budget = Some(possiblePlayers.remainingBudget + player.salary),
+        isFlex = Some(isFlex())
+      )
+    }.getOrElse(Seq.empty[Player])
+  }
+
+  def improveOn(name: String, withReplacementRanked: Int = 0) = {
+    possiblePlayers(name).headOption.map { playerToImproveOn =>
+      val alternatives = alternativesFor(name).filterNot { alternativePlayer =>
+        possiblePlayers.players.contains(alternativePlayer.ref)
+      }
+
+      val index = Math.min(withReplacementRanked, alternatives.size - 1)
+      if (index >= 0) {
+        possiblePlayers.swap(playerToImproveOn, alternatives(index).ref)
+      } else {
+        possiblePlayers
+      }
+    }.getOrElse(possiblePlayers)
+  }
+
+  def improvements(numberPerPlayer: Int = 1) = {
+    possiblePlayers.players.flatMap { playerToImproveOn =>
+      0.until(numberPerPlayer).map { number =>
+        improveOn(playerToImproveOn.name, number)
+      }
+    }.toSeq.distinct.sortBy(AllPlayers.byPoints)
+  }
+
+  def improve(withImprovementRanked: Int = 0) = {
+    val improvementOptions = improvements()
+
+    val index = Math.min(withImprovementRanked, improvementOptions.size - 1)
+
+    if (index >= 0) {
+      improvementOptions(index)
+    } else {
+      possiblePlayers
+    }
+  }
+
+  def optimize: PossiblePlayers = {
+    val improvement = improve()
+    if (possiblePlayers == improvement || improvement.projectedPoints <= possiblePlayers.projectedPoints) {
+      improvement
+    } else {
+      improvement.optimize
+    }
+  }
+}
+
+case class PossiblePlayers(
+  rosterRequirement: RosterRequirement,
+  players: Set[PlayerRef]
+) extends Valueable {
 	def summary = {
 		val lines = new mutable.StringBuilder
 
@@ -36,82 +109,64 @@ case class PossiblePlayers(players: Set[PlayerRef]) extends Valueable {
 		lines.result
 	}
 
+  lazy val (filledSlots, emptySlots) = {
+    val alreadyAssigned = mutable.Set[PlayerRef]()
+
+    rosterRequirement.slots.map { slot =>
+      players.foldLeft(slot) { case (s, player) =>
+        if (s.isEmpty && s.canBeFilledBy(player.player) && !alreadyAssigned.contains(player)) {
+          alreadyAssigned.add(player)
+          s.fillWith(player.player)
+        } else {
+          s
+        }
+      }
+    }.partition { _.isFilled }
+  }
+
 	lazy val byPosition = {
 		players.groupBy { _.position }
 	}
 
-	def alternativesFor(name: String) = {
-		val allPlayers = PlayerData.all
+  def optimizerWithPlayers(allPlayers: AllPlayers = PlayerData.all) = {
+    RosterOptimizer(this, allPlayers)
+  }
 
-		allPlayers(name).headOption.map { player =>
-			val isFlex: () => Boolean = { () =>
-				val remainingPlayers = this - player.ref
+  def optimizer = {
+    RosterOptimizer(this)
+  }
 
-				player.isFlex && {
-					PossiblePlayers.minimumSlotsPerPosition.forall { case (position, minimum) =>
-						remainingPlayers.byPosition.get(position).exists { playersAtPosition =>
-							playersAtPosition.size == minimum
-						}
-					}
-				}
-			}
+  def alternativesFor(name: String) = {
+    optimizer.alternativesFor(name)
+  }
 
-			allPlayers.alternativesFor(
-				player,
-				budget = Some(remainingBudget + player.salary),
-				isFlex = Some(isFlex())
-			)
-		}.getOrElse(Seq.empty[Player])
-	}
+  def improveOn(name: String, withReplacementRanked: Int = 0) = {
+    optimizer.improveOn(name, withReplacementRanked)
+  }
 
-	def improveOn(name: String, withReplacementRanked: Int = 0) = {
-		this(name).headOption.map { playerToImproveOn =>
-			val alternatives = alternativesFor(name).filterNot { alternativePlayer =>
-				players.contains(alternativePlayer.ref)
-			}
-
-			val index = Math.min(withReplacementRanked, alternatives.size - 1)
-			if (index >= 0) {
-				swap(playerToImproveOn, alternatives(index).ref)
-			} else {
-				this
-			}
-		}.getOrElse(this)
-	}
-
-	def improvements(numberPerPlayer: Int = 1) = {
-		players.flatMap { playerToImproveOn =>
-			0.until(numberPerPlayer).map { number =>
-				improveOn(playerToImproveOn.name, number)
-			}
-		}.toSeq.distinct.sortBy(AllPlayers.byPoints)
-	}
+  def improvements(numberPerPlayer: Int = 1) = {
+    optimizer.improvements(numberPerPlayer)
+  }
 
 	def improve(withImprovementRanked: Int = 0) = {
-		val improvementOptions = improvements()
-
-		val index = Math.min(withImprovementRanked, improvementOptions.size - 1)
-
-		if (index >= 0) {
-			improvementOptions(index)
-		} else {
-			this
-		}
+    optimizer.improve(withImprovementRanked)
 	}
 
-	@tailrec
-	final def optimize: PossiblePlayers = {
-		val improvement = improve()
-		if (this == improvement || improvement.projectedPoints < projectedPoints) {
-			this
-		} else {
-			improvement.optimize
-		}
+   def optimize: PossiblePlayers = {
+    optimizer.optimize
 	}
 
 	def swap(oldPlayer: PlayerRef, newPlayer: PlayerRef) = {
 		copy(players = players - oldPlayer + newPlayer)
 	}
+
+  def canSwap(oldPlayer: PlayerRef, newPlayer: PlayerRef) = {
+    swap(oldPlayer, newPlayer).isWithinBudget
+  }
+
+  def swapIn(newPlayer: PlayerRef) = {
+
+  }
 
 	def distance(otherPossiblePlayers: PossiblePlayers) = {
 		players.diff(otherPossiblePlayers.players).size
@@ -124,16 +179,31 @@ case class PossiblePlayers(players: Set[PlayerRef]) extends Valueable {
 	}
 
 	def +(otherPossiblePlayers: PossiblePlayers) = {
-		copy(players = players ++ otherPossiblePlayers.players)
+    if (isFull) {
+      this
+    } else {
+      copy(players = players ++ otherPossiblePlayers.players)
+//      otherPossiblePlayers.players.foldLeft(this) { case (pp, player) =>
+//        if (pp.emptySlots.exists {_.canBeFilledBy(player.player)}) {
+//          pp.copy(players = players + player)
+//        } else {
+//          pp
+//        }
+//      }
+    }
 	}
 
 	def -(player: PlayerRef) = {
 		copy(players = players - player)
 	}
 
-	def isFull = {
-		players.size == PossiblePlayers.numberOfPositionsInRoster
-	}
+//	def isFull = {
+//		players.size == PossiblePlayers.numberOfPositionsInRoster
+//	}
+
+  def isFull = {
+    !players.isEmpty && emptySlots.isEmpty
+  }
 
 	def remainingBudget = {
 		PossiblePlayers.budget - salary
@@ -147,11 +217,8 @@ case class PossiblePlayers(players: Set[PlayerRef]) extends Valueable {
 		projectedPoints * Math.log10(remainingBudget)
 	}
 
-  def toCSV(rosterRequirement: RosterRequirement) = {
-    players.foldLeft(rosterRequirement) { case (rr, player) =>
-
-      rr
-    }
+  def toCSV = {
+    filledSlots.flatMap { _.player }.map { _.name }.mkString(",")
   }
 
 	val projectedPoints = MathUtil.truncate(players.toSeq.map { _.projectedPoints }.sum)
